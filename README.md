@@ -1,5 +1,6 @@
 # 2021_MSA_Submission
 
+**Note: Anoter repo with the handle "stho382/2021_MSA_Submission_private" alongside this repo to store private information. LindaBot has been given access to this repo**
 ### _Dependencies alongside their versions_
 * python = ">=3.7.1, <3.9"
 * joblib = "^1.0.1"
@@ -22,7 +23,7 @@
 * train.csv - preprocessed training data used by echo_score.py to fit the TFIDF transformer in the Azure environement
 * books.csv - data of top 100 books gathered from gutenberg's website
 * labels.csv - data containing the labels of the ML model
-* LUIS.json - JSON file containing the details for provisioning the chatbot
+* LUIS.json (2021_MSA_Submission_Private) - JSON file containing the details for provisioning the chatbot
 
 ### _Folder included_
 * kaggle_competition - folder containing .csv files provided for the commonLit competition
