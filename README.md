@@ -29,6 +29,3 @@
 
 ### _Azure Bot channel Username_
 * Telgram - @MSA2021ReadingEaseBot
-
-### _REST Enspoint_
-http://1e6c7bc4-1a42-4246-864c-2797f55e1528.australiaeast.azurecontainer.io/score
