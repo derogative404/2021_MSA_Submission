@@ -29,7 +29,7 @@ def run(request):
   processed_data = list(map(lambda x: preprocess(x), data))
   test = vec_me(processed_data)
   predictions = model.predict(test)
-  return json.dumps({"predictions": predictions.tolist()})
+  return predictions.tolist()
 
 def preprocess(sentence):
   """
