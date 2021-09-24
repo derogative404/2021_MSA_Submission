@@ -1,16 +1,16 @@
 # 2021_MSA_Submission
 
 ### _Dependencies alongside their versions_
-python = ">=3.7.1, <3.9"
-joblib = "^1.0.1"
-json5 = "^0.9.6"
-sklearn = "^0.0"
-missingno = "^0.5.0"
-nltk = "^3.6.3"
-azureml-defaults = "^1.34.0"
-pandas = "^1.3.3"
-bs4 = "^0.0.1"
-requests = "^2.26.0"
+* python = ">=3.7.1, <3.9"
+* joblib = "^1.0.1"
+* json5 = "^0.9.6"
+* sklearn = "^0.0"
+* missingno = "^0.5.0"
+* nltk = "^3.6.3"
+* azureml-defaults = "^1.34.0"
+* pandas = "^1.3.3"
+* bs4 = "^0.0.1"
+* requests = "^2.26.0"
 
 ### _Files Included_
 CommonLit_Readability_Prize.ipynb - jupyter notebook containing all the steps for steps 1 to 4 outlined in the Phase 2 brief
