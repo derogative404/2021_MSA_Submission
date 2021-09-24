@@ -22,6 +22,13 @@
 * train.csv - preprocessed training data used by echo_score.py to fit the TFIDF transformer in the Azure environement
 * books.csv - data of top 100 books gathered from gutenberg's website
 * labels.csv - data containing the labels of the ML model
+* LUIS.json - JSON file containing the details for provisioning the chatbot
 
 ### _Folder included_
 * kaggle_competition - folder containing .csv files provided for the commonLit competition
+
+### _Azure Bot channel Username_
+* Telgram - @MSA2021ReadingEaseBot
+
+### _REST Enspoint_
+http://1e6c7bc4-1a42-4246-864c-2797f55e1528.australiaeast.azurecontainer.io/score
