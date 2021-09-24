@@ -1,6 +1,6 @@
 # 2021_MSA_Submission
 
-**Note: Anoter repo with the handle "stho382/2021_MSA_Submission_private" alongside this repo to store private information. LindaBot has been given access to this repo**
+**Note: Anoter repo with the handle "stho382/2021_MSA_Submission_private" has been created alongside this repo to store private information. LindaBot has been given access to this repo**
 ### _Dependencies alongside their versions_
 * python = ">=3.7.1, <3.9"
 * joblib = "^1.0.1"
