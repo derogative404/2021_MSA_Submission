@@ -1,6 +1,10 @@
-# 2021_MSA_Submission
+# 2021 MSA Submission (Book Excerpt Analysis)
 
-**Note: Anoter repo with the handle "stho382/2021_MSA_Submission_private" has been created alongside this repo to store private information. LindaBot has been given access to this repo**
+### Business Case
+An international company which specialises in developing English language curriculums for educational institutions worldwide is looking to use NLP to optimise development of their curriculum.
+Every year the company has to select a set of readings of different complexity for each level of their curriculum. The company wants a model that can assess the readability (complexity) of the text and assign it to appropriate curriculum level.
+The company decides to outsource the development of the model through a competition held on Kaggle website (this scenario is hypothetical, but the competition is real). Once the competition is complete the company will select the best model. The task is to develop a model for the company and recommend suitable books for each year level for New Zealand schools.
+
 ### _Dependencies alongside their versions_
 * python = ">=3.7.1, <3.9"
 * joblib = "^1.0.1"
